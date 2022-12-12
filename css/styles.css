@@ -478,7 +478,7 @@ border: 1px solid var(--accent-color);
 .logo-futer-accent {
     color: var(--accent-color);
     font-family: 'Raleway', sans-serif;
-    font-weight: 800;
+    font-weight: 00;
     font-size: 18px;    
     line-height: 1.17;
     text-transform: uppercase;
@@ -514,7 +514,9 @@ border: 1px solid var(--accent-color);
     margin-left: 120px;
 }
 
-
+.futer-list {
+    display: flex;
+}
 
 .futer-social .link {
     display: flex;
@@ -547,7 +549,7 @@ border: 1px solid var(--accent-color);
 
 .futer-title {
     color: var(--primery-white-color);
-    font-size: 20px;
+    font-size: 16px;
     line-height: 1.5;  
     letter-spacing: 0.02em;
     margin-bottom: 16px;
